@@ -7,6 +7,7 @@
       --sv
       --tests
       --scripts
+      --filelist
 
 
 2. 验证文档存在在腾讯共享文档
